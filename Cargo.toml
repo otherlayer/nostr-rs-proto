@@ -3,6 +3,7 @@ name = "nostr-rs-proto"
 version = "0.1.0"
 edition = "2021"
 authors = ["Greg Heartsfield <scsibug@imap.cc>"]
+repository = "https://github.com/otherlayer/nostr-rs-proto"
 description = "Protobuf types for nostr-rs-relay gRPC communication"
 license = "MIT"
 
